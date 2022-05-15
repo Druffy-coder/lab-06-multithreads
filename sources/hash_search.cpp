@@ -1,4 +1,4 @@
-// Copyright 2021 Your Name <your_email>
+// Copyright 2022 Semenihin Dmitriy <SemenihinDmit@yandex.ru>
 
 #include <hash_search.hpp>
 
